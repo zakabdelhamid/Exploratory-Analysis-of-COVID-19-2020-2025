@@ -137,20 +137,35 @@ Skills demonstrated:
 ## 🔗 7. Repository Structure
 
 ```text
-/
 ├── README.md
 ├── sql/
 │   ├── Data Validation and Profiling/
-│   └── Analytical SQL Queries/
+│   ├── Analytical SQL Queries/
+│   └── notes_sql_structure.mds/
 ├── data/
 │   ├── Global Trends Overview/
 │   ├── Continental Comparison/
 │   ├── Vaccination vs Mortality Analysis/
 │   ├── Socio-Economic Drivers/
-│   └── Policy Stringency and Spread Dynamics/
-└── notebooks/
-    └── Exploratory Analysis of COVID-19 (2020–2025).ipynb
-
+│   ├── Policy Stringency and Spread Dynamics/
+│   └── data_dictionary.md
+├── notebooks/
+│   ├── Exploratory Analysis of COVID-19 (2020–2025).ipynb
+│   └── key_insights.md
+└── figures/
+    ├── fig01. Global total COVID-19 cases and deaths over time (2020–2025).png
+    ├── fig02. Global daily and smoothed new COVID-19 cases & new COVID-19 deaths (2020–2025).png
+    ├── fig03. Global vaccination progress (2020–2025).png
+    ├── fig04 COVID-19 Cases per Million by Continent (Latest Available Data).png
+    ├── fig05. COVID-19 Deaths per Million by Continent (Latest Available Data).png
+    ├── fig06 COVID-19 Vaccination per Hundred by Continent (Latest Available Data).png
+    ├── fig07. Vaccination vs COVID-19 Mortality by Country.png
+    ├── fig08. Change in COVID-19 Mortality Before vs After Vaccination Rollout (Top decreases & increases).png
+    ├── fig09. Life expectancy vs COVID-19 mortality (outliers removed).png
+    ├── fig10 Top 20 Countries with Highest Volatility in COVID-19 Stringency Index (2020–2025).png
+    ├── fig11. Top 20 Countries with the Highest Average COVID-19 Stringency Index (2020–2025).png
+    ├── fig12. Volatile COVID-19 Policies and Transmission (2020–2025).png
+    └── fig13. Strict COVID-19 Policies and Transmission (2020–2025).png
 ```
 
 ---
