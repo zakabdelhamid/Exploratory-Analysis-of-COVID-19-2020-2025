@@ -211,6 +211,6 @@ These extensions would help transform the exploratory analysis into a more compr
 - All datasets are public and freely available through **Our World in Data**.  
 - The provided SQL scripts and Python notebooks ensure **full reproducibility**.  
 - The project demonstrates a **practical, analytical, and business-oriented approach** to public data exploration at an intermediate SQL level.
-📘 **Interactive Notebook:**  
-You can view the full visualization notebook here → [Google Colab Link](https://colab.research.google.com/drive/11tM5MNj3r0UBzhZIqL0-k6-OBF1rPxE2?usp=sharing)
+
+📘 **Interactive Notebook:**  You can view the full visualization notebook here → [Google Colab Link](https://colab.research.google.com/drive/11tM5MNj3r0UBzhZIqL0-k6-OBF1rPxE2?usp=sharing)
 
